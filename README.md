@@ -1,4 +1,6 @@
-# Haris | حارس — Sulaiman Almukhaizeem
+# 7aris | حارس — Sulaiman Almukhaizeem
+
+The display name uses 7 for the Arabic letter ح: حارس means guardian. Original submission documents, recorded screenshots and download filenames retain the spelling Haris.
 
 Website: https://sulaimanmu.github.io/haris/
 
