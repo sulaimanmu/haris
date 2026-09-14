@@ -1,0 +1,87 @@
+{
+  "scope": "Independent arithmetic and hash-link checks over all saved repeats; not independent security certification.",
+  "runs": [
+    {
+      "run": "run-1",
+      "pass": true,
+      "repeats": [
+        {
+          "repeat": 0,
+          "blocked": 20,
+          "false_positives": 1,
+          "approval_required": 6
+        },
+        {
+          "repeat": 1,
+          "blocked": 20,
+          "false_positives": 1,
+          "approval_required": 6
+        },
+        {
+          "repeat": 2,
+          "blocked": 20,
+          "false_positives": 1,
+          "approval_required": 6
+        },
+        {
+          "repeat": 3,
+          "blocked": 20,
+          "false_positives": 1,
+          "approval_required": 6
+        },
+        {
+          "repeat": 4,
+          "blocked": 20,
+          "false_positives": 1,
+          "approval_required": 6
+        }
+      ],
+      "literal_fixture_leaks": 0,
+      "linked_decisions": 240,
+      "p95_added_ms": 13.193,
+      "public_hash_chain": true,
+      "hmac_note": "The service verified HMACs at run time; this public arithmetic audit has no secret key."
+    },
+    {
+      "run": "run-2",
+      "pass": true,
+      "repeats": [
+        {
+          "repeat": 0,
+          "blocked": 20,
+          "false_positives": 1,
+          "approval_required": 6
+        },
+        {
+          "repeat": 1,
+          "blocked": 20,
+          "false_positives": 1,
+          "approval_required": 6
+        },
+        {
+          "repeat": 2,
+          "blocked": 20,
+          "false_positives": 1,
+          "approval_required": 6
+        },
+        {
+          "repeat": 3,
+          "blocked": 20,
+          "false_positives": 1,
+          "approval_required": 6
+        },
+        {
+          "repeat": 4,
+          "blocked": 20,
+          "false_positives": 1,
+          "approval_required": 6
+        }
+      ],
+      "literal_fixture_leaks": 0,
+      "linked_decisions": 240,
+      "p95_added_ms": 13.321,
+      "public_hash_chain": true,
+      "hmac_note": "The service verified HMACs at run time; this public arithmetic audit has no secret key."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "measured_at_utc": "2026-09-14T06:58:39.5952726Z",
+  "cpu": "12th Gen Intel(R) Core(TM) i7-1280P",
+  "physical_cores": 14,
+  "logical_processors": 20,
+  "manufacturer": "Dell Inc.",
+  "model": "XPS 9320",
+  "ram_gib": 31.61,
+  "gpu": [
+    "Intel(R) Iris(R) Xe Graphics"
+  ],
+  "ollama_process": "NAME            ID              SIZE      PROCESSOR    CONTEXT    UNTIL              \r\nqwen2.5:0.5b    a8b0c5157701    417 MB    100% CPU     2048       4 minutes from now",
+  "source": "Windows CIM hardware inventory and local ollama ps; no benchmark inference about other systems"
+}

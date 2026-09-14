@@ -1,0 +1,21 @@
+{
+  "at": "2026-09-14T07:16:13Z",
+  "previous_archive_sha256": "daf9a8de5de127b1fd3acc3ce7dbbe65062908094c96376b13f83ee3cb5236e3",
+  "outcomes": [
+    {
+      "source": "previous_distribution",
+      "policy": "haris-case-1.0",
+      "pending_content_visible_after_customer_access_removed": true,
+      "decision": "approved",
+      "case_count": 1
+    },
+    {
+      "source": "corrected_source",
+      "policy": "haris-case-1.1",
+      "pending_content_visible_after_customer_access_removed": false,
+      "decision": "denied",
+      "case_count": 0
+    }
+  ],
+  "interpretation": "Previous same-tenant reviewer-role check omitted customer assignment. Corrected queue and approval/rejection enforce current assigned-customer scope. Test uses only synthetic temporary databases."
+}
